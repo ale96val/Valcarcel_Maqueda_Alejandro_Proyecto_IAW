@@ -1,2 +1,2 @@
 # Valcarcel_Maqueda_Alejandro_Proyecto_IAW
-Proyecto para la asignatura Implantación de Aplicaciones Web.
+Proyecto para el 2º trimestre de Implantación de Apliaciones Web
